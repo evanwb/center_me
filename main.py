@@ -2,6 +2,7 @@ import cv2
 import numpy as np
 import math
 import os
+import argparse
 
 
 casacde_path = os.path.dirname(os.path.abspath(__file__)) + '/cascades/haarcascade_frontalface_default.xml'
