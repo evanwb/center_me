@@ -1,5 +1,5 @@
 # Center Me
-## This is a simple program that will tell ther u which direction to move s
+## This is a simple program that will tell the user which direction to move in order to be centered in the frame
 
 ### Usage
 ```
