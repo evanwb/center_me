@@ -1,21 +1,11 @@
 # Center Me
-## This is a simple program that will notify the user when they are centered in the frame
+## This is a simple program that will tell ther u which direction to move s
 
 ### Usage
 ```
   python3 main.py
 ```
-Not Centered                   | Centered
+Centered                   | Not Centered
 :---------------------------------:|:----------------:
-![Original Image](images/not1.png) | ![plot](images/centered.png)
+![Original Image](images/centered.png) | ![plot](images/not1.png)
 
-
-
-
-
-### Not Centered
-![plot](images/not1.png)
-![plot](images/not2.png)
-
-### Centered
-![plot](images/centered.png)
