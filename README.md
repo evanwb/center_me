@@ -8,4 +8,4 @@
 Centered                   | Not Centered
 :---------------------------------:|:----------------:
 ![Original Image](images/centered.png) | ![plot](images/not1.png)
-
+                                       | ![plot](images/not2.png)
